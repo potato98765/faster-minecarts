@@ -1,0 +1,4 @@
+name: FasterMinecarts
+version: 1.0
+main: com.mrpotato.fasterminecarts.FasterMinecarts
+api-version: 1.8
